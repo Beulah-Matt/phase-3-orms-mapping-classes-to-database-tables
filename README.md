@@ -158,7 +158,7 @@ class as a whole to create the table that it is mapped to.
 > `special word meaning "End of Document"`. You don't have to use a heredoc,
 > it's just a helpful tool for crafting long strings in Ruby. Back to our
 > regularly scheduled programming...
-
+cd 
 Now that our songs table exists, we can learn how to save data regarding
 individual songs into that table.
 
